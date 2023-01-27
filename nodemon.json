@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "rootUser",
+        "MONGO_PASSWD": "UlAt56ulTMHpyrlg",
+        "MONGO_DB": "medicaldb"   
+    }
+}
